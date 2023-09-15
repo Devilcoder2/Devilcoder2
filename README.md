@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
 <h3 align="center">Fusing Vision with Intelligence: ML, Computer Vision, and MERN Magic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devilcoder2&label=Profile%20views&color=0e75b6&style=flat" alt="devilcoder2" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devilcoder2&label=Profile%20views&color=028de3&style=plastic" alt="devilcoder2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devilcoder2" alt="devilcoder2" /></a> </p>
 
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devilcoder2&show_icons=true&locale=en&layout=compact" alt="devilcoder2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devilcoder2&show_icons=true&theme=onedark&locale=en" alt="devilcoder2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devilcoder2&show_icons=true&theme=dracula&locale=en" alt="devilcoder2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devilcoder2&" alt="devilcoder2" /></p>
