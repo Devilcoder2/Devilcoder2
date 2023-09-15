@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
 <h3 align="center">Fusing Vision with Intelligence: ML, Computer Vision, and MERN Magic</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilcoder2&label=Profile%20views&color=028de3&style=plastic" alt="devilcoder2" /> </p>
 
