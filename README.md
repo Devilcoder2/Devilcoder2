@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fbeginner-code%3Fl%3Djava&psig=AOvVaw30agw0KooSpP4BpM_joJ9F&ust=1694893352612000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJjr__OvrYEDFQAAAAAdAAAAABAE)]
+![logo](https://github.com/Devilcoder2/Devilcoder2/assets/113927776/c047522c-4ed9-4901-9984-a720b7e5eefe)
 <h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
 <h3 align="center">Fusing Vision with Intelligence: ML, Computer Vision, and MERN Magic</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
