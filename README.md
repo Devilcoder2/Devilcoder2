@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramandeep Singh</h1>
 <h3 align="center">Fusing Vision with Intelligence: ML, Computer Vision, and MERN Magic</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvideoplasty.com%2Fstock-animation%2Fchill-coding-programming-lofi-animation-11018&psig=AOvVaw0i5fx9WHP_lMJqWkGDuxNk&ust=1694892889980000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJivuZeurYEDFQAAAAAdAAAAABAE" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devilcoder2&label=Profile%20views&color=028de3&style=plastic" alt="devilcoder2" /> </p>
 
